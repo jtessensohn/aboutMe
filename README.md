@@ -1,0 +1,1 @@
+Beginner project leveraging an about me page as an excuse for a technical playground
